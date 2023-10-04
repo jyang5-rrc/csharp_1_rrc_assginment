@@ -1,0 +1,12 @@
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\bin\Debug\Yang.Jiajia.Business.dll
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\bin\Debug\Yang.Jiajia.Business.pdb
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.csproj.AssemblyReference.cache
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.csproj.CoreCompileInputs.cache
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.dll
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.pdb
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\bin\Debug\Yang.Jiajia.Business.dll
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\bin\Debug\Yang.Jiajia.Business.pdb
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.csproj.AssemblyReference.cache
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.csproj.CoreCompileInputs.cache
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.dll
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_2\RRCAGLibraryJiajiaYang\Yang.Jiajia.Business\obj\Debug\Yang.Jiajia.Business.pdb

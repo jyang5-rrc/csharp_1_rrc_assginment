@@ -1,0 +1,8 @@
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\bin\Debug\Assignment1JiajiaYang.exe.config
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\bin\Debug\Assignment1JiajiaYang.exe
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\bin\Debug\Assignment1JiajiaYang.pdb
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\obj\Debug\Yang.Jiajia.RRCAG.csproj.AssemblyReference.cache
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\obj\Debug\Yang.Jiajia.RRCAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\obj\Debug\Yang.Jiajia.RRCAG.csproj.CoreCompileInputs.cache
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\obj\Debug\Assignment1JiajiaYang.exe
+C:\Users\jocel\OneDrive\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_1\Assignment1JiajiaYang\Assignment1JiajiaYang\obj\Debug\Assignment1JiajiaYang.pdb

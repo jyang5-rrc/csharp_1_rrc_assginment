@@ -1,0 +1,9 @@
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\bin\Debug\Yang.Jiajia.RRCAGTests.exe.config
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\bin\Debug\Yang.Jiajia.RRCAGTests.exe
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\bin\Debug\Yang.Jiajia.RRCAGTests.pdb
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.csproj.AssemblyReference.cache
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.csproj.CoreCompileInputs.cache
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.csproj.CopyComplete
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.exe
+C:\Users\jocel\Desktop\Term2\Programming2\Assignment\adev-2008_Jiajia_Yang_assignment_4\Assignment4JiajiaYang\Yang.Jiajia.RRCAGTests\obj\Debug\Yang.Jiajia.RRCAGTests.pdb
